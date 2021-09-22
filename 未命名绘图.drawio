@@ -1,1 +1,180 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T03:55:28.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="14.9.8" etag="dxh90CeJ-Z_4LxD5LJWQ" type="github"><diagram id="VISUZU8R3aiFxQQqJCOe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-22T03:56:04.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="rz3pyqefUmJMyuy4JiLG" version="14.9.8" type="github">
+  <diagram id="VISUZU8R3aiFxQQqJCOe" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xZkSoX7DHiOwvbAGQuAA-0" />
+        <mxCell id="xZkSoX7DHiOwvbAGQuAA-1" parent="xZkSoX7DHiOwvbAGQuAA-0" />
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-13" value="" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="384" y="500" width="316" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-12" value="移动节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="70" y="500" width="298" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-18" value="" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="580" y="10" width="330" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-17" value="移动节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="40" y="40" width="500" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=3;strokeColor=#4D4D4D;" parent="xZkSoX7DHiOwvbAGQuAA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="160" as="sourcePoint" />
+            <mxPoint x="393" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-0" value="数据转发服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontStyle=1;fontSize=14;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="142" y="115.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-2" value="贵州煤监系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="50" y="50" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-6" value="kafka数据中转服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="400" y="115.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="zKLTJNkcZLsa2kkeP2Qj-7" value="省应急系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="340" y="50" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-2" value="移动节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="196" y="350" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-5" value="电信新节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="646" y="350" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="610" y="40" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-10" value="省应急系统" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="620" y="50" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-11" value="数据服务" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="702" y="125.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=3;strokeColor=#4D4D4D;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="159.5" as="sourcePoint" />
+            <mxPoint x="662" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8P0HK5jadvVp34utioJ-21" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" source="zKLTJNkcZLsa2kkeP2Qj-1" target="zKLTJNkcZLsa2kkeP2Qj-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="255" as="sourcePoint" />
+            <mxPoint x="330" y="204.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="410" y="530" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-1" value="省应急系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="420" y="540" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-2" value="kafka数据中转服务器&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="502" y="615.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="90" y="530" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-4" value="贵州煤监系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="100" y="540" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-5" value="数据服务" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="182" y="615.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-6" value="&lt;font style=&quot;font-size: 13px&quot;&gt;内网IP&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 13px&quot;&gt;：&lt;/font&gt;10.212.29.104&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="417" y="740" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-7" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 内网IP&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 13px&quot;&gt;：&lt;/font&gt;&lt;/span&gt;&lt;span&gt;10.11.134.68&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="79" y="740" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=3;strokeColor=#4D4D4D;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="659.5" as="sourcePoint" />
+            <mxPoint x="462" y="659.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="360" y="650" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-14" value="电信新节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="448" y="810" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-15" value="移动节点（贵安）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;dashed=1;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="125" y="810" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-16" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px&quot;&gt;&lt;span&gt;IP&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 13px&quot;&gt;地址&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 13px&quot;&gt;：&lt;/font&gt;&lt;/span&gt;&lt;span&gt;10.11.134.68&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="95" y="240" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-17" value="&lt;span style=&quot;font-size: 13px&quot;&gt;绑定弹性IP：&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;58.42.10.95&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="425" y="760" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-18" value="&lt;font style=&quot;font-size: 13px&quot;&gt;绑定弹性IP：无&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="72" y="760" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="398" y="950" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-30" value="省应急系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="408" y="960" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-31" value="kafka数据中转服务器&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="490" y="1035.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="78" y="950" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-33" value="贵州煤监系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="88" y="960" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-34" value="数据服务" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="170" y="1035.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;内网IP&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 13px&quot;&gt;：&lt;/font&gt;10.212.29.104&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="405" y="1160" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-39" value="&lt;span style=&quot;font-size: 13px&quot;&gt;绑定弹性IP：&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;58.42.10.95&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="413" y="1180" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-40" value="&lt;font style=&quot;font-size: 13px&quot;&gt;绑定弹性IP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="88" y="1170" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuYuuG7QNHx2yutmPeEu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=3;strokeColor=#4D4D4D;" parent="xZkSoX7DHiOwvbAGQuAA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276" y="1090" as="sourcePoint" />
+            <mxPoint x="448" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="1154" y="950" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-1" value="省应急系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="1164" y="960" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-2" value="kafka数据中转服务器&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="1246" y="1035.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=8;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="834" y="950" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-4" value="贵州煤监系统（互联网区）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontStyle=1;fontSize=18;" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="844" y="960" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-5" value="数据服务" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;fontSize=13;fontStyle=1" parent="xZkSoX7DHiOwvbAGQuAA-1" vertex="1">
+          <mxGeometry x="926" y="1035.5" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=3;strokeColor=#4D4D4D;" parent="xZkSoX7DHiOwvbAGQuAA-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1032" y="1090" as="sourcePoint" />
+            <mxPoint x="1204" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLSClXxAlUJoiw8UMhFV-12" value="直接传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1" parent="xLSClXxAlUJoiw8UMhFV-9" vertex="1" connectable="0">
+          <mxGeometry x="0.2093" relative="1" as="geometry">
+            <mxPoint x="-13" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
