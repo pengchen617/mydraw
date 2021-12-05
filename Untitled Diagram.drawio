@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T09:22:33.926Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="K6ckdHTYHv9HXvktpfCC" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T09:27:08.256Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Kw7flv7NV94th5lcgeY-" version="15.9.1" type="github">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,10 +154,10 @@
         <mxCell id="byi06CO_j5vsrsdqkOMh-71" value="AI服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fontColor=#0B2E52;fontFamily=黑体;arcSize=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="780" y="742.5" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-72" value="身份核验" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="byi06CO_j5vsrsdqkOMh-72" value="OCR识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="780" y="774.5" width="160" height="32.25" as="geometry" />
         </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-73" value="数据治理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="byi06CO_j5vsrsdqkOMh-73" value="人脸识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="980" y="774.5" width="160" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-76" value="工作流服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
@@ -169,7 +169,7 @@
         <mxCell id="byi06CO_j5vsrsdqkOMh-80" value="关系管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="980" y="682" width="160" height="32.25" as="geometry" />
         </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-82" value="开放能力服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fontColor=#0B2E52;fontFamily=黑体;arcSize=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="byi06CO_j5vsrsdqkOMh-82" value="开放能力服务（能力API）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fontColor=#0B2E52;fontFamily=黑体;arcSize=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="550" y="522.63" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
