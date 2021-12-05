@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T09:01:52.816Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="c68B7uHwNjzaewLZq78w" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T09:03:31.088Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8H5uDL-LHKExu9ExZ-Dx" version="15.9.1" type="github">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="byi06CO_j5vsrsdqkOMh-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="1120" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-54" value="应用支撑平台&lt;br&gt;PaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="byi06CO_j5vsrsdqkOMh-54" value="应用支撑平台&lt;br&gt;PaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2F54;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="120" y="540" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-55" value="地图中台服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
