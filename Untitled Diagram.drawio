@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T16:10:34.857Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4p75TivL7umlE8Qyn3UL" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T16:12:57.560Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qBvLi7BOZ8tj83-T_0bI" version="15.9.1" type="github">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="2585" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="24" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-6" value="服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="830" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="810" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="449" width="1120" height="80" as="geometry" />
@@ -41,19 +41,19 @@
           <mxGeometry x="390" y="109" width="180" height="320" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-27" value="认证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="410" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="390" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-28" value="磋商" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="550" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-29" value="签约" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="690" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="670" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-30" value="培训" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="970" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="950" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-31" value="OA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="24" width="120" height="50" as="geometry" />
+          <mxGeometry x="1090" y="24" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#8CAADC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="1055.25" width="820" height="97.5" as="geometry" />
