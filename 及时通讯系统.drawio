@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T01:30:50.532Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nlSAXP9NYOk0Lm3i1yR8" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:31:46.980Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="iioCTSHR2zJ8g83rVAbc" version="15.9.1" type="github">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="1673" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
         <mxCell id="h75rbg2pMHEWR7sHU_1V-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="-80" width="1120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h75rbg2pMHEWR7sHU_1V-2" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="h75rbg2pMHEWR7sHU_1V-2" value="用户层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="170" y="-65" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h75rbg2pMHEWR7sHU_1V-3" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
