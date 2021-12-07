@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T01:28:19.953Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xi2Bfj7Hs0-zEEywJfvV" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:30:50.532Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nlSAXP9NYOk0Lm3i1yR8" version="15.9.1" type="github">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="1673" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,23 +58,17 @@
         <mxCell id="byi06CO_j5vsrsdqkOMh-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#8CAADC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="1055.25" width="820" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-21" value="云计算服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1092.75" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-34" value="备份服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1092.75" width="160" height="50" as="geometry" />
+          <mxGeometry x="806" y="1092.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-37" value="云上贵州系统平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=18;fontColor=#0B2E52;fontFamily=黑体;arcSize=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="390" y="1057.25" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-38" value="云计算服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1092.75" width="160" height="50" as="geometry" />
+          <mxGeometry x="410" y="1092.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-39" value="数据库服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="617" y="1092.75" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="byi06CO_j5vsrsdqkOMh-40" value="安全服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="823" y="1092.75" width="160" height="50" as="geometry" />
+          <mxGeometry x="542" y="1092.75" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="byi06CO_j5vsrsdqkOMh-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="130" y="879" width="1120" height="150" as="geometry" />
@@ -300,6 +294,15 @@
         </mxCell>
         <mxCell id="h75rbg2pMHEWR7sHU_1V-4" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="810" y="-65" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h75rbg2pMHEWR7sHU_1V-6" value="负载均衡&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1092.75" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h75rbg2pMHEWR7sHU_1V-9" value="安全服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="674" y="1092.75" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h75rbg2pMHEWR7sHU_1V-10" value="集群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="938" y="1092.75" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
