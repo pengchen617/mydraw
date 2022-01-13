@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:01:17.641Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ahxFoBQDlCibCp6dPeQ7" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-13T08:03:51.827Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vGlP87KJepJW5tI6Ptwx" version="16.2.6" type="github" pages="2">
   <diagram id="HFCnj8aLhszsA6gR-yzJ" name="总体架构图">
     <mxGraphModel dx="1422" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,10 +342,10 @@
         <mxCell id="elYJ1EmMFiodgVZHV9Bd-79" value="Server 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5496;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
           <mxGeometry x="980" y="-1045" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="elYJ1EmMFiodgVZHV9Bd-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;arcSize=14;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
+        <mxCell id="elYJ1EmMFiodgVZHV9Bd-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;arcSize=5;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
           <mxGeometry x="80" y="-960" width="1120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="elYJ1EmMFiodgVZHV9Bd-83" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
+        <mxCell id="elYJ1EmMFiodgVZHV9Bd-83" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;arcSize=11;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
           <mxGeometry x="120" y="-945" width="160" height="205" as="geometry" />
         </mxCell>
         <mxCell id="OzH0whmC2qkisL92sH-1-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8CAADC;fontColor=#FFFFFF;strokeColor=none;fontSize=20;fontFamily=Helvetica;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
@@ -413,6 +413,15 @@
         </mxCell>
         <mxCell id="OzH0whmC2qkisL92sH-1-29" value="认证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=16;fontColor=#FFFFFF;fillColor=#2E5496;strokeColor=none;fontStyle=0" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
           <mxGeometry x="1030" y="-830" width="120" height="32.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OzH0whmC2qkisL92sH-1-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;arcSize=14;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
+          <mxGeometry x="80" y="-700" width="1120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzH0whmC2qkisL92sH-1-32" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0B2E52;fontColor=#ffffff;strokeColor=#006EAF;fontSize=20;fontFamily=黑体;" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
+          <mxGeometry x="120" y="-685" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OzH0whmC2qkisL92sH-1-33" value="持久化存储（及时通讯消息数据、用户关系数据）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8CAADC;fontColor=#1A1A1A;strokeColor=none;fontSize=20;fontFamily=黑体;fontStyle=1" vertex="1" parent="GyY7w-9yGbYBpCay_tNv-1">
+          <mxGeometry x="340" y="-687" width="820" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
